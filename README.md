@@ -1,4 +1,4 @@
-# Hey! I'm Rensoraa 👋 
+# Hey! I'm Rensora 👋 
 ![Profile Views](https://komarev.com/ghpvc/?username=rensoraa&style=flat-square)
 
 I'm Rensora 22 Y/o I live in Belgium and i've always had a passion for how code works. and all the things you can do with it.
