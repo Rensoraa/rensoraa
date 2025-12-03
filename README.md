@@ -10,7 +10,7 @@ I love tinkering with projects, building small tools, and exploring new tech.
 Always curious, always learning, and occasionally breaking things for fun 😅  
 
 ---
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Tools of the Trade
 
