@@ -10,13 +10,12 @@ I love tinkering with projects, building small tools, and exploring new tech.
 Always curious, always learning, and occasionally breaking things for fun 😅  
 
 ---
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Tools of the Trade
 Here’s what I’m usually working with:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rensoraa&layout=donut&theme=discord_old_blurple)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rensoraa&show_icons=true&count_private=true&theme=discord_old_blurple)
+![](https://nirzak-streak-stats.vercel.app/?user=rensoraa&theme=midnight-purple&hide_border=false)
 
 ---
 
@@ -45,3 +44,7 @@ Here’s what I’m usually working with:
 - 🎨 Bright colors because why not  
 - 🕹️ Random fun and experiments keep things interesting  
 - 🤪 I press random buttons and see what happens  
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=rensoraa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
