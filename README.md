@@ -13,7 +13,6 @@ Always curious, always learning, and occasionally breaking things for fun 😅
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Tools of the Trade
-Here’s what I’m usually working with:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rensoraa&theme=midnight-purple&hide_border=false)
 
